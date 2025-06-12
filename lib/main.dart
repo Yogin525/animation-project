@@ -3,7 +3,7 @@ import 'package:logic_practice/animation/controller/animation_controller.dart';
 import 'package:logic_practice/animation/view/animation_home.dart';
 import 'package:logic_practice/animation/view/second_screen.dart';
 import 'package:logic_practice/matrix/controller/get_controller.dart';
-import 'package:logic_practice/matrix/screens/color_matrix.dart';
+import 'package:animation-project/matrix/screens/color_matrix.dart';
 import 'package:get/get.dart';
 
 void main() {
